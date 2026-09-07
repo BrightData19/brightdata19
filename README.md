@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Joshua Sandler
+# Hi 👋, I'm Alan Dabrowski
 
 ### Senior Database Specialist | Database Performance | Data Reliability
 
@@ -21,7 +21,7 @@
 
 ## 📫 Contact Information
 
-- 📧 **Email:** [joshuasandler95@outlook.com](mailto:joshuasandler95@outlook.com)
+- 📧 **Email:** [AllureiveNut@proton.me](mailto:AllureiveNut@proton.me)
 
 ---
 
